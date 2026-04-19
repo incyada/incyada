@@ -19,13 +19,10 @@ You may know me as Cakeofcraft, or Incyada, but whatever it is, its the same per
 ### About me
 
 - Im a hobbyist with a huge interest in computing, mostly on software, as i suck on hardware.
-
+- I also help with translating Sidestore's documentation to french! That is when its needed though.
 - Online, im well known as a resource pack creator for Minecraft. started with Cake's D°Uzi Tweaks, and my passion has now snowballed into something bigger.
-
 - Offline, im a high school student, and havent done much in terms of coding, only really touched some JSON, and modified a singular python script, but i strive to learn more!
-
 - Despite this though, i can read code fairly well, and likes maths, when they are managable.
-
 - I can also do pixel art and 3D renders! I might try to improve my skills on those though, its been a while.
 
 ### My future
